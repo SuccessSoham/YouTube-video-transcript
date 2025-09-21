@@ -1,0 +1,11 @@
+streamlit
+youtube-transcript-api
+transformers
+torch
+langgraph
+google-generativeai
+python-dotenv
+duckduckgo-search
+langchain-community
+pytube
+pytube
