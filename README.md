@@ -19,8 +19,8 @@ This application allows users to summarize YouTube video transcripts. Users can 
 
 1.  **Clone the repository:**
     ```bash
-    git clone <repository_url> # Replace with your repository URL
-    cd youtube-transcript-summarizer
+    git clone [<repository_url>](https://github.com/SuccessSoham/YouTube-video-transcript)
+    cd YouTube-video-transcript
     ```
 
 2.  **Create a virtual environment (recommended):**
